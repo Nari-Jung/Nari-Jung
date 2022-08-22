@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=250&section=header&text=🫧%20NARI%20GitHub%20🫧&fontSize=90&animation=twinkling&fontColor=FFCCCC)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=FF54DC&height=250&section=header&text=🫧%20NARI%20GitHub%20🫧&fontSize=90&animation=twinkling&fontColor=FFCCCC)
 
 
