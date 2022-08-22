@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=250&section=header&text=🫧%20NARI%20GitHub%20🫧&fontSize=90&animation=twinkling&fontColor=FFCCCC)
-
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
