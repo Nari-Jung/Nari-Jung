@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=250&section=header&text=🫧%20NARI%20GitHub%20🫧&fontSize=90&animation=twinkling&fontColor=FFCCCC)
 
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 
