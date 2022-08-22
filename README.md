@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=250&section=header&text=NARI%20Github🙌🏻&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=250&section=header&text=🫧NARI%20Github🏻🫧&fontSize=90)
 
