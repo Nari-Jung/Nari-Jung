@@ -17,6 +17,9 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=250&section=header&text=🫧%20NARI%20GitHub%20🫧&fontSize=90&animation=twinkling&fontColor=FFCCCC)
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3>👩🏻‍💻 Tech Stack 👩🏻‍💻</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+
+<h3>🔥 Follow Me 🔥</h3>
+  <a href="mailto:palin.pi3@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </div>
