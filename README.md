@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" background="#000'>
+<div align="center" background="#000">
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=250&section=header&text=🫧%20NARI%20GitHub%20🫧&fontSize=90&animation=twinkling&fontColor=FFCCCC)
 
