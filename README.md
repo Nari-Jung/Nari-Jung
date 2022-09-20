@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   
  <h3>💻 My Github Stats 💻</h3>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nari-Jung&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nari-Jung&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
