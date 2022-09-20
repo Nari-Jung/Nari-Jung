@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <a href="mailto:palin.pi3@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
   
  <h3>💻 My Github Stats 💻</h3>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
-Nari-Jung
